@@ -593,9 +593,7 @@ body {
   flex-shrink: 0;
 }
 .landing-page--uMK .auto-group-2zvy-v1X .group-22-AZw .group-21-DHK .group-20-Kr9 .group-19-f9K .ui-ux-5cM {
-  margin-bottom: 1.5rem;
-  width: 100%;
-  text-align: center;
+  margin: 0rem 0rem 1.5rem 0rem;
   font-size: 3.2rem;
   font-weight: 600;
   line-height: 1.5;
@@ -603,7 +601,6 @@ body {
   color: #000000;
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
-  flex-shrink: 0;
 }
 .landing-page--uMK .auto-group-2zvy-v1X .group-22-AZw .group-21-DHK .group-20-Kr9 .group-19-f9K .lorem-ipsum-dolor-sit-amet-consectetur-morbi-diam-nisi-nam-diam-interdum-bqb {
   margin-left: 0.45rem;
@@ -875,21 +872,8 @@ body {
   flex-shrink: 0;
 }
 .landing-page--uMK .auto-group-2zvy-v1X .frame-21-VYu .auto-group-rzx3-eAu .auto-group-zs4h-jrZ .group-28-iiV .frame-17-Gk1 {
-  width: 10.8rem;
+  width: 10.1rem;
   height: 100%;
-  position: relative;
-  border: solid 0.04rem #535353;
-  box-sizing: border-box;
-  background-color: #f7f7f7;
-  border-radius: 1.2rem;
-  flex-shrink: 0;
-}
-.landing-page--uMK .auto-group-2zvy-v1X .frame-21-VYu .auto-group-rzx3-eAu .auto-group-zs4h-jrZ .group-28-iiV .frame-17-Gk1 .ui-ux-pWd {
-  width: 6.9rem;
-  height: 3.6rem;
-  position: absolute;
-  left: 1.95rem;
-  top: 1rem;
   text-align: center;
   font-size: 2.4rem;
   font-weight: 400;
@@ -898,6 +882,14 @@ body {
   color: #000000;
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.04rem #535353;
+  box-sizing: border-box;
+  background-color: #f7f7f7;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
 }
 .landing-page--uMK .auto-group-2zvy-v1X .frame-21-VYu .auto-group-rzx3-eAu .auto-group-zs4h-jrZ .group-28-iiV .frame-17-Gk1 .frame-21-ic1 {
   width: 10.8rem;
